@@ -1,0 +1,21 @@
+Blacklist:
+#Smart TV block
+https://raw.githubusercontent.com/hkamran80/blocklists/refs/heads/main/smart-tv.txt
+#NordicFiltersPiHole
+https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersPiHole.txt
+#Norge 2
+https://raw.githubusercontent.com/hulkhaugen/pi-hole/refs/heads/master/hosts
+#Ads
+#AdGuard
+https://raw.githubusercontent.com/mullvad/dns-blocklists/refs/heads/main/lists/doh/adblock/AdguardDNS
+#frellwits-swedish-hosts-file
+https://github.com/mullvad/dns-blocklists/raw/refs/heads/main/lists/doh/adblock/frellwits-swedish-hosts-file
+#oisd-small
+https://github.com/mullvad/dns-blocklists/raw/refs/heads/main/lists/doh/adblock/oisd-small
+##Trackers
+#hagezi-tracker-windows
+https://github.com/mullvad/dns-blocklists/raw/refs/heads/main/lists/doh/privacy/hagezi-tracker-windows
+
+
+#Whitelists:=====================================================================
+https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
